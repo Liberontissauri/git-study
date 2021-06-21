@@ -1,2 +1,3 @@
 
-print("hi there")
+def sayHi():
+    print("hi there")
